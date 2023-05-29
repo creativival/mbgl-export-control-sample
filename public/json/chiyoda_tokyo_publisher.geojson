@@ -1,0 +1,1859 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.770508,
+          35.705158
+        ]
+      },
+      "properties": {
+        "title": "\u660e\u77f3\u66f8\u5e97",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u5916\u795e\u75306-9-5<br/>03-5818-1171<br/><a href='http://www.akashi.co.jp/'>\u660e\u77f3\u66f8\u5e97</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.753296,
+          35.697464
+        ]
+      },
+      "properties": {
+        "title": "\u3042\u304b\u306d\u66f8\u623f",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u897f\u795e\u75303-2-1 \u5343\u4ee3\u7530\u30d5\u30a1\u30fc\u30b9\u30c8\u30d3\u30eb\u5357\u99281\u968e<br/>03-3263-0641<br/><a href='http://www.akaneshobo.co.jp/'>\u3042\u304b\u306d\u66f8\u623f</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.748993,
+          35.700382
+        ]
+      },
+      "properties": {
+        "title": "\u79cb\u7530\u66f8\u5e97",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u98ef\u7530\u6a4b2\u201010\u20108<br/>03-3264-7011<br/><a href='http://www.akitashoten.co.jp/'>\u79cb\u7530\u66f8\u5e97</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.757751,
+          35.69487
+        ]
+      },
+      "properties": {
+        "title": "\u5ca9\u6ce2\u66f8\u5e97",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u4e00\u30c4\u6a4b2\u20105\u20105<br/>03-5210-4000<br/><a href='http://www.iwanami.co.jp/'>\u5ca9\u6ce2\u66f8\u5e97</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.760376,
+          35.694241
+        ]
+      },
+      "properties": {
+        "title": "\u30a4\u30f3\u30d7\u30ec\u30b9\u30db\u30fc\u30eb\u30c7\u30a3\u30f3\u30b0\u30b9",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u795e\u4fdd\u753a1-105<br/>03-6837-5000<br/><a href='http://www.impressholdings.com/'>\u30a4\u30f3\u30d7\u30ec\u30b9\u30db\u30fc\u30eb\u30c7\u30a3\u30f3\u30b0\u30b9</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.741409,
+          35.692505
+        ]
+      },
+      "properties": {
+        "title": "WAVE\u51fa\u7248",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u4e5d\u6bb5\u53573-9-12\u4e5d\u6bb5\u30cb\u30c3\u30ab\u30ca\u30d3\u30eb2\u968e<br/>03-3261-3713<br/><a href='http://www.wave-publishers.co.jp/'>WAVE\u51fa\u7248</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.741501,
+          35.687595
+        ]
+      },
+      "properties": {
+        "title": "\u6f6e\u51fa\u7248\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u4e00\u756a\u753a6\u3000\u4e00\u756a\u753aSQUARE<br/>03-3230-0768<br/><a href='http://www.usio.co.jp/'>\u6f6e\u51fa\u7248\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.776428,
+          35.69339
+        ]
+      },
+      "properties": {
+        "title": "\u82f1\u5b9d\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u5ca9\u672c\u753a2-7-7\u3000\u7b2c\u4e00\u4e95\u53e3\u30d3\u30eb<br/>03-5833-5870<br/><a href='http://www.eihosha.co.jp/'>\u82f1\u5b9d\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.761765,
+          35.692589
+        ]
+      },
+      "properties": {
+        "title": "\u30aa\u30fc\u30e0\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u9326\u753a3\u20101<br/>03-3233-0641<br/><a href='http://www.ohmsha.co.jp/'>\u30aa\u30fc\u30e0\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.760117,
+          35.696373
+        ]
+      },
+      "properties": {
+        "title": "\u5b66\u4e8b\u51fa\u7248",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u795e\u4fdd\u753a1-2-5<br/>03-3518-9655<br/><a href='http://www.gakuji.co.jp'>\u5b66\u4e8b\u51fa\u7248</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.74794,
+          35.699631
+        ]
+      },
+      "properties": {
+        "title": "\u5b66\u967d\u66f8\u623f",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u98ef\u7530\u6a4b1-9-3<br/>03-3261-1113<br/><a href='http://www.gakuyo.co.jp/'>\u5b66\u967d\u66f8\u623f</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.75885,
+          35.697624
+        ]
+      },
+      "properties": {
+        "title": "\u98a8\u9593\u66f8\u623f",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u795e\u4fdd\u753a1\u201034<br/>03-3291-5729<br/><a href='http://www.kazamashobo.co.jp'>\u98a8\u9593\u66f8\u623f</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.744293,
+          35.69775
+        ]
+      },
+      "properties": {
+        "title": "KADOKAWA",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u5bcc\u58eb\u898b2\u201013\u20103<br/>03-3238-8521<br/><a href='http://www.kadokawa.co.jp/'>KADOKAWA</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.737595,
+          35.683678
+        ]
+      },
+      "properties": {
+        "title": "\u304b\u3093\u304d\u51fa\u7248",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u9eb9\u753a4\u20101\u20104\u897f\u8107\u30d3\u30eb<br/>03-3262-8011<br/><a href='http://www.kanki-pub.co.jp/'>\u304b\u3093\u304d\u51fa\u7248</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.760117,
+          35.696373
+        ]
+      },
+      "properties": {
+        "title": "\u6280\u5831\u5802\u51fa\u7248",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u795e\u4fdd\u753a1-2-5\u3000\u548c\u6817\u30cf\u30c8\u30e4\u30d3\u30eb<br/>03-5217-0885<br/><a href='http://gihodobooks.jp/'>\u6280\u5831\u5802\u51fa\u7248</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.738174,
+          35.682549
+        ]
+      },
+      "properties": {
+        "title": "\u6c42\u9f8d\u5802",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u7d00\u5c3e\u4e95\u753a3\u201023\u6587\u85dd\u6625\u79cb\u65b0\u9928\uff11\u968e<br/>03-3239-3381<br/><a href='http://www.kyuryudo.co.jp'>\u6c42\u9f8d\u5802</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.753983,
+          35.694969
+        ]
+      },
+      "properties": {
+        "title": "\u91d1\u661f\u5802",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u795e\u4fdd\u753a3\u201021<br/>03-3263-3828<br/><a href='http://www.kinsei-do.co.jp/'>\u91d1\u661f\u5802</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.765137,
+          35.690914
+        ]
+      },
+      "properties": {
+        "title": "\u66ae\u3057\u306e\u624b\u5e16\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u5185\u795e\u75301-13-1<br/>03-5259-6001<br/><a href='http://www.kurashi-no-techo.co.jp/'>\u66ae\u3057\u306e\u624b\u5e16\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.735794,
+          35.686501
+        ]
+      },
+      "properties": {
+        "title": "\u304f\u308d\u3057\u304a\u51fa\u7248",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u4e8c\u756a\u753a4-3<br/>03-6261-2867<br/><a href='http://www.9640.jp/xoops/'>\u304f\u308d\u3057\u304a\u51fa\u7248</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.742035,
+          35.672005
+        ]
+      },
+      "properties": {
+        "title": "\u7d4c\u6e08\u754c",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u6c38\u7530\u753a2-4-11\u3000\u30d5\u30ec\u30f3\u30c9\u30d3\u30eb3\u968e<br/>03-6441-3741<br/><a href='http://www.keizaikai.co.jp/'>\u7d4c\u6e08\u754c</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.764328,
+          35.694164
+        ]
+      },
+      "properties": {
+        "title": "\u82b8\u8853\u65b0\u805e\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u5c0f\u5ddd\u753a2-3-12 \u795e\u7530\u5c0f\u5ddd\u753a\u30d3\u30eb<br/>03-5280-9080<br/><a href='http://www.gei-shin.co.jp'>\u82b8\u8853\u65b0\u805e\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.745148,
+          35.698616
+        ]
+      },
+      "properties": {
+        "title": "\u7814\u7a76\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u5bcc\u58eb\u898b2\u201011\u20103<br/>03-3288-7777<br/><a href='http://www.kenkyusha.co.jp/'>\u7814\u7a76\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.747635,
+          35.699936
+        ]
+      },
+      "properties": {
+        "title": "\u7384\u5149\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u98ef\u7530\u6a4b4\u20101\u20105<br/>03-3263-3515<br/><a href='http://www.genkosha.co.jp/'>\u7384\u5149\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.733276,
+          35.68898
+        ]
+      },
+      "properties": {
+        "title": "\u5149\u6587\u66f8\u9662",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u4e94\u756a\u753a14<br/>03-3262-3271<br/><a href='http://www.kobun.co.jp/'>\u5149\u6587\u66f8\u9662</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.760513,
+          35.699345
+        ]
+      },
+      "properties": {
+        "title": "\u5f18\u6587\u5802",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u99ff\u6cb3\u53f01\u20107<br/>03-3294-4801<br/><a href='http://www.koubundou.co.jp'>\u5f18\u6587\u5802</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.760956,
+          35.700001
+        ]
+      },
+      "properties": {
+        "title": "\u56fd\u571f\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u99ff\u6cb3\u53f02-5<br/>03-6272-6125<br/><a href='http://www.kokudosha.co.jp/'>\u56fd\u571f\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.747711,
+          35.701069
+        ]
+      },
+      "properties": {
+        "title": "\u3054\u307e\u66f8\u623f\u65b0\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u98ef\u7530\u6a4b3-4-6<br/>03-3910-0481<br/><a href='http:// gomashobo.com/'>\u3054\u307e\u66f8\u623f\u65b0\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.754456,
+          35.696079
+        ]
+      },
+      "properties": {
+        "title": "\u4e09\u5171\u51fa\u7248",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u795e\u4fdd\u753a3\u20102<br/>03-3264-5711<br/><a href='http://www.sankyoshuppan.co.jp/'>\u4e09\u5171\u51fa\u7248</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.749313,
+          35.699638
+        ]
+      },
+      "properties": {
+        "title": "\u7523\u696d\u56f3\u66f8",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u98ef\u7530\u6a4b2\u201011\u20103<br/>03-3261-7821<br/><a href='http://www.san-to.co.jp/'>\u7523\u696d\u56f3\u66f8</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.734543,
+          35.683182
+        ]
+      },
+      "properties": {
+        "title": "\u4e09\u7701\u5802",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u9eb9\u753a5-7-2<br/>03-3230-9441<br/><a href='http://www.sanseido-publ.co.jp/'>\u4e09\u7701\u5802</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.743118,
+          35.679077
+        ]
+      },
+      "properties": {
+        "title": "\u7523\u52b4\u7dcf\u5408\u7814\u7a76\u6240",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u6c38\u7530\u753a1-11-1 \u4e09\u5b85\u5742\u30d3\u30eb<br/>03-5860-9771<br/><a href='http://www.e-sanro.net/sri/index01.html'>\u7523\u52b4\u7dcf\u5408\u7814\u7a76\u6240</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.759674,
+          35.69693
+        ]
+      },
+      "properties": {
+        "title": "\u8996\u899a\u30c7\u30b6\u30a4\u30f3\u7814\u7a76\u6240",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u795e\u4fdd\u753a1\u201022 \u5317\u4fe1\u30d3\u30eb<br/>03-5280-1067<br/><a href='http://www.shikaku-d.com/main.html'>\u8996\u899a\u30c7\u30b6\u30a4\u30f3\u7814\u7a76\u6240</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.736176,
+          35.69017
+        ]
+      },
+      "properties": {
+        "title": "\u5b9f\u6559\u51fa\u7248",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u4e94\u756a\u753a5<br/>03-3238-7700<br/><a href='http://www.jikkyo.co.jp/'>\u5b9f\u6559\u51fa\u7248</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.749161,
+          35.702518
+        ]
+      },
+      "properties": {
+        "title": "\u6e05\u6c34\u66f8\u9662",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u98ef\u7530\u6a4b3-11-6 \u6e05\u6c34\u66f8\u9662\u30b5\u30fc\u30d3\u30b9\u7b2c2\u30d3\u30eb<br/>03-5213-7151<br/><a href='http://www.shimizushoin.co.jp'>\u6e05\u6c34\u66f8\u9662</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.744583,
+          35.68856
+        ]
+      },
+      "properties": {
+        "title": "\u30b8\u30e3\u30d1\u30f3\u30bf\u30a4\u30e0\u30ba \u51fa\u7248",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u4e00\u756a\u753a2-2<br/>050-3646-0123<br/><a href='http://www.japantimes.co.jp'>\u30b8\u30e3\u30d1\u30f3\u30bf\u30a4\u30e0\u30ba \u51fa\u7248</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.758224,
+          35.69458
+        ]
+      },
+      "properties": {
+        "title": "\u96c6\u82f1\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u4e00\u30c4\u6a4b2\u20105\u201010<br/>3230-6111<br/><a href='http://www.shueisha.co.jp'>\u96c6\u82f1\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.766693,
+          35.701958
+        ]
+      },
+      "properties": {
+        "title": "\u6625\u79cb\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u5916\u795e\u75302\u201018\u20106<br/>03-3255-9611<br/><a href='http://www.shunjusha.co.jp/'>\u6625\u79cb\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.758224,
+          35.694153
+        ]
+      },
+      "properties": {
+        "title": "\u5c0f\u5b66\u9928",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u4e00\u30c4\u6a4b2\u20103\u20101<br/>03-3230-5211<br/><a href='http://www.shogakukan.co.jp/'>\u5c0f\u5b66\u9928</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.737656,
+          35.68959
+        ]
+      },
+      "properties": {
+        "title": "\u88f3\u83ef\u623f",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u56db\u756a\u753a8\u20101<br/>03-3262-9166<br/><a href='http://www.shokabo.co.jp/'>\u88f3\u83ef\u623f</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.755829,
+          35.699177
+        ]
+      },
+      "properties": {
+        "title": "\u5c11\u5e74\u753b\u5831\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u897f\u795e\u75302-8-5<br/>03-3262-3501<br/><a href='http://www.shonengahosha.jp/'>\u5c11\u5e74\u753b\u5831\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.738892,
+          35.69178
+        ]
+      },
+      "properties": {
+        "title": "\u5c11\u5e74\u5199\u771f\u65b0\u805e\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u4e5d\u6bb5\u53574-7-16<br/>03-3264-2624<br/><a href='http://www.schoolpress.co.jp'>\u5c11\u5e74\u5199\u771f\u65b0\u805e\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.758499,
+          35.695465
+        ]
+      },
+      "properties": {
+        "title": "\u6676\u6587\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u795e\u4fdd\u753a1-11<br/>03-3518-4940<br/><a href='http://www.shobunsha.co.jp/'>\u6676\u6587\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.739624,
+          35.683891
+        ]
+      },
+      "properties": {
+        "title": "\u662d\u6587\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u9eb9\u753a3-1<br/>03-3556-8153<br/><a href='http://www.mapple.co.jp/'>\u662d\u6587\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.759445,
+          35.700603
+        ]
+      },
+      "properties": {
+        "title": "\u6607\u9f8d\u5802\u51fa\u7248",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u99ff\u6cb3\u53f02\u20109<br/>03-3292-8211<br/><a href=''>\u6607\u9f8d\u5802\u51fa\u7248</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.738052,
+          35.676807
+        ]
+      },
+      "properties": {
+        "title": "\u8a3a\u65ad\u3068\u6cbb\u7642\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u6c38\u7530\u753a2\u201014\u20102\u5c71\u738b\u30b0\u30e9\u30f3\u30c9\u30d3\u30eb4 \u968e<br/>03-3580-2750<br/><a href='http://www.shindan.co.jp/'>\u8a3a\u65ad\u3068\u6cbb\u7642\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.764328,
+          35.694164
+        ]
+      },
+      "properties": {
+        "title": "\u6570\u7814\u51fa\u7248",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u5c0f\u5ddd\u753a2-3-3<br/>03-5283-6001<br/><a href='http://www.chart.co.jp'>\u6570\u7814\u51fa\u7248</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.737656,
+          35.684956
+        ]
+      },
+      "properties": {
+        "title": "\u30b9\u30ea\u30fc\u30a8\u30fc\u30cd\u30c3\u30c8\u30ef\u30fc\u30af",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u9eb9\u753a3-4\u3000\u30c8\u30e9\u30b9\u30c6\u30a3\u9eb9\u753a\u30d3\u30eb<br/>03-5275-2722<br/><a href='http://www.3anet.co.jp/'>\u30b9\u30ea\u30fc\u30a8\u30fc\u30cd\u30c3\u30c8\u30ef\u30fc\u30af</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.763565,
+          35.695896
+        ]
+      },
+      "properties": {
+        "title": "\u99ff\u6cb3\u53f0\u51fa\u7248\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u99ff\u6cb3\u53f03\u20107 \u767e\u702c\u30d3\u30eb<br/>03-3291-1676<br/><a href='http://www.e-surugadai.com'>\u99ff\u6cb3\u53f0\u51fa\u7248\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.740936,
+          35.680477
+        ]
+      },
+      "properties": {
+        "title": "\u751f\u7523\u6027\u51fa\u7248",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u5e73\u6cb3\u753a2-13-12<br/>03-3511-4034<br/><a href='http://www.jpc-sed.or.jp'>\u751f\u7523\u6027\u51fa\u7248</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.759338,
+          35.694981
+        ]
+      },
+      "properties": {
+        "title": "\u9752\u571f\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u795e\u4fdd\u753a1-29\u3000\u5e02\u702c\u30d3\u30eb4\u968e<br/>03-3291-9831<br/><a href='http://www.seidosha.co.jp'>\u9752\u571f\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.762054,
+          35.696419
+        ]
+      },
+      "properties": {
+        "title": "\u6210\u7f8e\u5802",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u5c0f\u5ddd\u753a3\u201022<br/>03-3291-2261<br/><a href='http://www.seibido.co.jp/'>\u6210\u7f8e\u5802</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.769562,
+          35.682667
+        ]
+      },
+      "properties": {
+        "title": "\u7a0e\u52d9\u7814\u7a76\u4f1a",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u4e38\u306e\u51851-8-2<br/>03-6777-3450<br/><a href='http://www.zeiken.co.jp'>\u7a0e\u52d9\u7814\u7a76\u4f1a</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.753296,
+          35.69545
+        ]
+      },
+      "properties": {
+        "title": "\u6e05\u6d41\u51fa\u7248",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u795e\u4fdd\u753a3\u20107\u20101 \u30cb\u30e5\u30fc\u4e5d\u6bb5\u30d3\u30eb<br/>03-3288-5405<br/><a href='http://www.seiryupub.co.jp'>\u6e05\u6d41\u51fa\u7248</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.738052,
+          35.692455
+        ]
+      },
+      "properties": {
+        "title": "\u4e16\u754c\u6587\u5316\u30db\u30fc\u30eb\u30c7\u30a3\u30f3\u30b0\u30b9",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u4e5d\u6bb5\u53174\u20102\u201029<br/>03-3262-5111<br/><a href='http://www.sekaibunka.com/'>\u4e16\u754c\u6587\u5316\u30db\u30fc\u30eb\u30c7\u30a3\u30f3\u30b0\u30b9</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.746643,
+          35.695389
+        ]
+      },
+      "properties": {
+        "title": "\u7b2c\u4e00\u51fa\u7248",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u4e5d\u6bb5\u53172-3-1<br/>03-5226-0999<br/><a href='http://www.daiichi-shuppan.co.jp'>\u7b2c\u4e00\u51fa\u7248</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.752579,
+          35.699558
+        ]
+      },
+      "properties": {
+        "title": "\uff34\uff21\uff23\u51fa\u7248",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u4e09\u5d0e\u753a3-2-18<br/>03-5276-9492<br/><a href=''>\uff34\uff21\uff23\u51fa\u7248</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.759354,
+          35.694736
+        ]
+      },
+      "properties": {
+        "title": "\u4e2d\u592e\u7d4c\u6e08\u793e\u30db\u30fc\u30eb\u30c7\u30a3\u30f3\u30b0\u30b9",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u795e\u4fdd\u753a1\u201035<br/>03-3293-3381<br/><a href='http://www.chuokeizai.co.jp/'>\u4e2d\u592e\u7d4c\u6e08\u793e\u30db\u30fc\u30eb\u30c7\u30a3\u30f3\u30b0\u30b9</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.765045,
+          35.687069
+        ]
+      },
+      "properties": {
+        "title": "\u4e2d\u592e\u516c\u8ad6\u65b0\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u5927\u624b\u753a1-7-1<br/>03-5299-1700<br/><a href='http://www.chuko.co.jp/'>\u4e2d\u592e\u516c\u8ad6\u65b0\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.742081,
+          35.679893
+        ]
+      },
+      "properties": {
+        "title": "\u30c7\u30a3\u30b9\u30ab\u30f4\u30a1\u30fc\u30fb\u30c8\u30a5\u30a8\u30f3\u30c6\u30a3\u30ef\u30f3",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u5e73\u6cb3\u753a2-16-1<br/>03-3237-8321<br/><a href='http://www.d21.co.jp/'>\u30c7\u30a3\u30b9\u30ab\u30f4\u30a1\u30fc\u30fb\u30c8\u30a5\u30a8\u30f3\u30c6\u30a3\u30ef\u30f3</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.759888,
+          35.695683
+        ]
+      },
+      "properties": {
+        "title": "\u96fb\u6c17\u66f8\u9662",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u795e\u4fdd\u753a1-3\u3000\u30df\u30e4\u30bf\u30d3\u30eb2\u968e<br/>03-5259-9160<br/><a href='http://www.denkishoin.co.jp/'>\u96fb\u6c17\u66f8\u9662</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.740402,
+          35.692478
+        ]
+      },
+      "properties": {
+        "title": "\u30c8\u30a5\u30fc\u30f4\u30a1\u30fc\u30b8\u30f3\u30ba",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u4e5d\u6bb5\u53174-1-3<br/>03-5212-7442<br/><a href='http://www.twovirgins.jp/'>\u30c8\u30a5\u30fc\u30f4\u30a1\u30fc\u30b8\u30f3\u30ba</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.759903,
+          35.69524
+        ]
+      },
+      "properties": {
+        "title": "\u6771\u4eac\u5802\u51fa\u7248",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u795e\u4fdd\u753a1\u201017<br/>03-3233-3745<br/><a href='http://www.tokyodoshuppan.com'>\u6771\u4eac\u5802\u51fa\u7248</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.747192,
+          35.702652
+        ]
+      },
+      "properties": {
+        "title": "\u6771\u4eac\u56f3\u66f8",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u98ef\u7530\u6a4b3-11-19 \u30a6\u30e1\u30d3\u30eb<br/>03-3288-9461<br/><a href='http://www.tokyo-tosho.co.jp/'>\u6771\u4eac\u56f3\u66f8</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.754929,
+          35.697823
+        ]
+      },
+      "properties": {
+        "title": "\u5200\u6c34\u66f8\u623f",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u897f\u795e\u75302\u20104\u20101 \u6771\u65b9\u5b66\u4f1a\u672c\u9928<br/>03-3261-6190<br/><a href='http://www.tousuishobou.com/'>\u5200\u6c34\u66f8\u623f</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.74173,
+          35.682819
+        ]
+      },
+      "properties": {
+        "title": "\u540c\u6210\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u5e73\u6cb3\u753a1-8-2\u5c71\u4eac\u534a\u8535\u9580\u30d1\u30ec\u30b9402<br/>03-3239-1467<br/><a href='http://homepage3.nifty.com/douseisha/'>\u540c\u6210\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.760986,
+          35.694775
+        ]
+      },
+      "properties": {
+        "title": "\u540c\u6587\u8218\u51fa\u7248",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u795e\u4fdd\u753a1\u201041<br/>03-3294-1801<br/><a href='http://www.dobunkan.co.jp/'>\u540c\u6587\u8218\u51fa\u7248</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.759888,
+          35.695683
+        ]
+      },
+      "properties": {
+        "title": "\u6771\u65b9\u66f8\u5e97",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u795e\u4fdd\u753a1\u20103<br/>03-3294-1001<br/><a href='http://www.toho-shoten.co.jp'>\u6771\u65b9\u66f8\u5e97</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.762848,
+          35.691303
+        ]
+      },
+      "properties": {
+        "title": "\u6771\u6d0b\u9928\u51fa\u7248\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u9326\u753a2-9-1\u3000\u30b3\u30f3\u30d5\u30a9\u30fc\u30eb\u5b89\u7530\u30d3\u30eb2\u968e<br/>03-6778-4343<br/><a href='http://www.toyokan.co.jp/'>\u6771\u6d0b\u9928\u51fa\u7248\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.757553,
+          35.698112
+        ]
+      },
+      "properties": {
+        "title": "\u30ca\u30c4\u30e1\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u795e\u4fdd\u753a1\u201052<br/>03-3291-1257<br/><a href='http://www.natsume.co.jp'>\u30ca\u30c4\u30e1\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.768021,
+          35.690601
+        ]
+      },
+      "properties": {
+        "title": "\u4e8c\u5bae\u66f8\u5e97",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u5185\u795e\u753011-13-13 T\u5c71\u5ddd\u51fa\u7248\u793e\u30d3\u30eb<br/>03-5244-5850<br/><a href='http://www.ninomiyashoten.co.jp/'>\u4e8c\u5bae\u66f8\u5e97</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.759445,
+          35.700603
+        ]
+      },
+      "properties": {
+        "title": "\u65e5\u672c\u533b\u4e8b\u65b0\u5831\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u99ff\u6cb3\u53f02\u20109<br/>03-3292-1551<br/><a href='http://www.jmedj.co.jp/'>\u65e5\u672c\u533b\u4e8b\u65b0\u5831\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.736176,
+          35.69017
+        ]
+      },
+      "properties": {
+        "title": "\u65e5\u672c\u68cb\u9662",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u4e94\u756a\u753a7\u20102<br/>03-3288-8797<br/><a href='http://www.nihonkiin.or.jp'>\u65e5\u672c\u68cb\u9662</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.760513,
+          35.699345
+        ]
+      },
+      "properties": {
+        "title": "\u65e5\u672c\u7d4c\u6e08\u8a55\u8ad6\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u99ff\u6cb3\u53f01-7-7<br/>03-5577-7286<br/><a href='http://www.nikkeihyo.co.jp'>\u65e5\u672c\u7d4c\u6e08\u8a55\u8ad6\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.757507,
+          35.690922
+        ]
+      },
+      "properties": {
+        "title": "\u65e5\u672c\u6587\u82b8\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u4e00\u30c4\u6a4b1-1-1<br/>03-5224-6460<br/><a href='http://www.nihonbungeisha.co.jp/'>\u65e5\u672c\u6587\u82b8\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.775452,
+          35.691368
+        ]
+      },
+      "properties": {
+        "title": "\u65e5\u672c\u6cd5\u4ee4",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u5ca9\u672c\u753a1-2-19<br/>03-3862-5031<br/><a href='http://www.horei.co.jp'>\u65e5\u672c\u6cd5\u4ee4</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.761108,
+          35.700954
+        ]
+      },
+      "properties": {
+        "title": "\u30cd\u30aa\u30c6\u30af\u30ce\u30ed\u30b8\u30fc",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u99ff\u6cb3\u53f02-3-13<br/>06-6616-7479<br/><a href='https://www.neotecnology.co.jp/'>\u30cd\u30aa\u30c6\u30af\u30ce\u30ed\u30b8\u30fc</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.739838,
+          35.691742
+        ]
+      },
+      "properties": {
+        "title": "\u57f9\u98a8\u9928",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u4e5d\u6bb5\u53574\u20103\u201012<br/>03-3262-5256<br/><a href='http://www.baifukan.co.jp'>\u57f9\u98a8\u9928</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.762543,
+          35.695763
+        ]
+      },
+      "properties": {
+        "title": "\u767d\u6c34\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u5c0f\u5ddd\u753a3\u201024<br/>03-3291-7816<br/><a href='http://www.hakusuisha.co.jp'>\u767d\u6c34\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.767685,
+          35.696217
+        ]
+      },
+      "properties": {
+        "title": "\u767d\u6cc9\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u6de1\u8def\u753a2-2-2<br/>03-3526-8000<br/><a href='http://www.hakusensha.co.jp/index.shtml'>\u767d\u6cc9\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.772171,
+          35.703072
+        ]
+      },
+      "properties": {
+        "title": "\u767d\u6843\u66f8\u623f",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u5916\u795e\u75305\u20101\u201015<br/>03-3836-4781<br/><a href='http://www.hakutou.co.jp/'>\u767d\u6843\u66f8\u623f</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.760513,
+          35.699345
+        ]
+      },
+      "properties": {
+        "title": "\u767d\u63da\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u99ff\u6cb3\u53f01-7-7<br/>03-5281-9772<br/><a href='http://www.hakuyo-sha.co.jp/'>\u767d\u63da\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.769714,
+          35.693542
+        ]
+      },
+      "properties": {
+        "title": "\u65e9\u5ddd\u66f8\u623f",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u591a\u753a2\u20102<br/>03-3252-3111<br/><a href='http://www.hayakawa-online.co.jp/'>\u65e9\u5ddd\u66f8\u623f</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.738434,
+          35.691647
+        ]
+      },
+      "properties": {
+        "title": "\u30d3\u30b8\u30cd\u30b9\u6559\u80b2\u51fa\u7248\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u4e5d\u6bb5\u53574-7-13<br/>03-3221-5361<br/><a href='http://www.bks.co.jp/'>\u30d3\u30b8\u30cd\u30b9\u6559\u80b2\u51fa\u7248\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.764984,
+          35.694206
+        ]
+      },
+      "properties": {
+        "title": "\u6a9c\u66f8\u5e97",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u5c0f\u5ddd\u753a2\u20101<br/>03-3291-9552<br/><a href='http://www.hinoki-shoten.co.jp/'>\u6a9c\u66f8\u5e97</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.759888,
+          35.695683
+        ]
+      },
+      "properties": {
+        "title": "\u51a8\u5c71\u623f",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u795e\u4fdd\u753a1\u20103<br/>03-3291-2171<br/><a href='http://fuzambo.net/'>\u51a8\u5c71\u623f</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.747192,
+          35.702652
+        ]
+      },
+      "properties": {
+        "title": "\u30d5\u30ec\u30b0\u30e9\u30f3\u30b9\u30b8\u30e3\u30fc\u30ca\u30eb\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u98ef\u7530\u6a4b3-11-19\u30a6\u30e1\u30d3\u30eb<br/>03-3264-0125<br/><a href='http://www.fragrance-j.co.jp/'>\u30d5\u30ec\u30b0\u30e9\u30f3\u30b9\u30b8\u30e3\u30fc\u30ca\u30eb\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.742081,
+          35.679893
+        ]
+      },
+      "properties": {
+        "title": "\u30d7\u30ec\u30b8\u30c7\u30f3\u30c8\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u5e73\u6cb3\u753a2-16-1<br/>03-3237-3711<br/><a href='http://www.president.co.jp/'>\u30d7\u30ec\u30b8\u30c7\u30f3\u30c8\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.738174,
+          35.682549
+        ]
+      },
+      "properties": {
+        "title": "\u6587\u85dd\u6625\u79cb",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u7d00\u5c3e\u4e95\u753a3\u201023<br/>03-3265-1211<br/><a href='http://www.bunshun.co.jp/'>\u6587\u85dd\u6625\u79cb</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.755585,
+          35.694412
+        ]
+      },
+      "properties": {
+        "title": "\u5e73\u51e1\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u795e\u4fdd\u753a3-29<br/>03-3230-6570<br/><a href='http://www.heibonsha.co.jp'>\u5e73\u51e1\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.741562,
+          35.692814
+        ]
+      },
+      "properties": {
+        "title": "\u6cd5\u653f\u5927\u5b66\u51fa\u7248\u5c40",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u4e5d\u6bb5\u53173-2-3\u3000\u6cd5\u653f\u5927\u5b66\u4e5d\u6bb5\u6821\u820e<br/>03-5214-5540<br/><a href='http://www.h-up.com/'>\u6cd5\u653f\u5927\u5b66\u51fa\u7248\u5c40</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.736771,
+          35.68425
+        ]
+      },
+      "properties": {
+        "title": "\u30dd\u30d7\u30e9\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u9eb9\u753a4-2-6\u3000\u4f4f\u53cb\u4e0d\u52d5\u7523\u9eb9\u753a\u30d5\u30a1\u30fc\u30b9\u30c8\u30d3\u30eb8\uff659\u968e<br/>03-5877-8101<br/><a href='http://www.poplar.co.jp/'>\u30dd\u30d7\u30e9\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.748657,
+          35.696087
+        ]
+      },
+      "properties": {
+        "title": "\u307b\u308b\u3077\u51fa\u7248",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u4e5d\u6bb5\u53171-15-15<br/>03-6261-6691<br/><a href='http://www.holp-pub.co.jp'>\u307b\u308b\u3077\u51fa\u7248</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.757904,
+          35.69511
+        ]
+      },
+      "properties": {
+        "title": "\u4e38\u5584\u51fa\u7248",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u795e\u4fdd\u753a2-17<br/>03-3512-3275<br/><a href='http://pub.maruzen.co.jp/'>\u4e38\u5584\u51fa\u7248</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.741211,
+          35.683346
+        ]
+      },
+      "properties": {
+        "title": "\u30e1\u30a4\u30c4\u30e6\u30cb\u30d0\u30fc\u30b5\u30eb\u30b3\u30f3\u30c6\u30f3\u30c4",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u5e73\u6cb3\u753a1-1-8<br/>03-5276-3050<br/><a href='http://www.mates-publishing.co.jp/'>\u30e1\u30a4\u30c4\u30e6\u30cb\u30d0\u30fc\u30b5\u30eb\u30b3\u30f3\u30c6\u30f3\u30c4</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.746414,
+          35.698803
+        ]
+      },
+      "properties": {
+        "title": "\u68ee\u5317\u51fa\u7248",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u5bcc\u58eb\u898b1-4-11 \u4e5d\u6bb5\u5bcc\u58eb\u898b\u30d3\u30eb2\u968e\u30fb3\u968e<br/>03-3265-8341<br/><a href='http://www.morikita.co.jp/'>\u68ee\u5317\u51fa\u7248</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76651,
+          35.693649
+        ]
+      },
+      "properties": {
+        "title": "\u68ee\u5c71\u66f8\u5e97",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u53f8\u753a2-17\u3000\u4e0a\u7530\u53f8\u753a\u30d3\u30eb3\u968e<br/>03-3293-7061<br/><a href=''>\u68ee\u5c71\u66f8\u5e97</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.761658,
+          35.695908
+        ]
+      },
+      "properties": {
+        "title": "\u516b\u6728\u66f8\u5e97",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u5c0f\u5ddd\u753a3\u20108<br/>03-3291-2965<br/><a href='http://www.books-yagi.co.jp/'>\u516b\u6728\u66f8\u5e97</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.77597,
+          35.699192
+        ]
+      },
+      "properties": {
+        "title": "\u85ac\u4e8b\u65e5\u5831\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u548c\u6cc9\u753a1-10<br/>03-3862-2141<br/><a href='http://www.yakuji.co.jp/'>\u85ac\u4e8b\u65e5\u5831\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.765289,
+          35.691341
+        ]
+      },
+      "properties": {
+        "title": "\u5c71\u5ddd\u51fa\u7248\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u5185\u795e\u75301-13-13<br/>03-3293-1788<br/><a href='http://www.yamakawa.co.jp/'>\u5c71\u5ddd\u51fa\u7248\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.74559,
+          35.701214
+        ]
+      },
+      "properties": {
+        "title": "\u96c4\u5c71\u95a3",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u5bcc\u58eb\u898b2\u20106\u20109<br/>03-3262-3231<br/><a href='http://www.yuzankaku.co.jp/'>\u96c4\u5c71\u95a3</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.757904,
+          35.69511
+        ]
+      },
+      "properties": {
+        "title": "\u6709\u6590\u95a3",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u795e\u4fdd\u753a2\u201017<br/>03-3264-1312<br/><a href='http://www.yuhikaku.co.jp'>\u6709\u6590\u95a3</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.742462,
+          35.686813
+        ]
+      },
+      "properties": {
+        "title": "\u7406\u5de5\u56f3\u66f8",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u4e00\u756a\u753a27-2 \u7406\u5de5\u56f3\u66f8\u30d3\u30eb4\u968e<br/>03-3230-0221<br/><a href='http://www.rikohtosho.co.jp'>\u7406\u5de5\u56f3\u66f8</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.760956,
+          35.700001
+        ]
+      },
+      "properties": {
+        "title": "\u7406\u8ad6\u793e",
+        "description": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u795e\u7530\u99ff\u6cb3\u53f02-5<br/>03-6264-8890<br/><a href='http://www.rironsha.co.jp/'>\u7406\u8ad6\u793e</a>",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "stroke": "#ffffff",
+        "stroke-width": 2
+      }
+    }
+  ]
+}
